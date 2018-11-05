@@ -11,12 +11,12 @@ Eul has stack roll operations, which put the first item on stack to the back of 
 
 # Example programs
 - Hello World
- `Hello, World!`
+  `Hello, World!`
 - Cat
- `` (empty program)
+  ` ` (empty program)
 - Quine
- * `this is quine`
- * `it is also quine`
- * `a`
+   * `this is quine`
+   * `it is also quine`
+   * `a`
 - Print all ASCII characters
- `0.0$~:1+:126<0?~`
+  `0.0$~:1+:126<0?~`
