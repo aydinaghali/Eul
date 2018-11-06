@@ -20,3 +20,6 @@ Eul has stack roll operations, which put the first item on stack to the back of 
    * `a`
 - Print all ASCII characters
   `0.0$~:1+:126<0?~`
+
+
+### You can learn more about Eul at [wiki](https://github.com/Greatcode/Eul/wiki)
