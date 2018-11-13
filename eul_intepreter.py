@@ -1,6 +1,8 @@
+from sys import argv
 from ctypes import c_ulong as u32
 
-def exec(code, env=[]):
+def eul(code):
+	env = []
 	try:
 		debug = code[0] == ';'
 	except IndexError:
@@ -299,4 +301,4 @@ def exec(code, env=[]):
 	for k in env:
 		print(chr(k.value), end='')
 
-exec(open('/storage/emulated/0/in.st', 'r').read())
+eul(open(argv[1], 'r').read())
