@@ -2,7 +2,7 @@
 Eul is an esoteric programming language. It has been desinged to be short and percise. It is a stack-based language.
 
 # Naming
-Eul's name comes from words "eu", meaning "good" in latin, and "l", contradiction of word "language". It means "good language".
+Eul's name comes from words "eu", meaning "good" in latin, and "l", contraction of word "language". It means "good language".
 
 # Memory
 The only data structure in Eul is its single stack. This stack supports basic operations, such as push and pop, as well as other operations, including arithmetic operations, number to string conversion and others. Every item of stack is 32 bit integer.
