@@ -1,5 +1,5 @@
 ﻿# Welcome to Eul
-Eul is an esoteric programming language. It has been desinged to be short and percise. It is a stack-based language.
+Eul is an esoteric programming language. It has been desinged to be short and precise. It is a stack-based language.
 
 # Naming
 Eul's name comes from words "eu", meaning "good" in latin, and "l", contraction of word "language". It means "good language".
